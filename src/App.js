@@ -3,7 +3,6 @@ import './App.css';
 import { Provider, defaultTheme } from '@adobe/react-spectrum';
 import {Navbar} from './components/Navbar.jsx';
 import SideNavigation from './components/SideNavigation.jsx';
-import Airports from './components/Airports.jsx';
 import IG from './components/IG.jsx';
 
 function App() {
